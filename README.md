@@ -18,7 +18,6 @@ MIRChallenge_2025/
 │   ├── src/
 │   │   ├── task1_ColQwen2.py      # End-to-end pipeline: embedding + querying + retrieval
 │   │   ├── runs.sh                # Shell script to run task1_ColQwen2.py on whole MMDocIR evaluation dataset
-│   ├── .gitignore
 │   ├── LICENSE
 │   ├── README.md
 │   ├── requirements.txt           # Python Packages with their versions used
